@@ -24,6 +24,7 @@ on:
           - OpenWrt-23.05.4-ALKHANET-armsr-armv8-generic-rootfs.tar.gz
           - OpenWrt-23.05.5-ALKHANET-armsr-armv8-generic-rootfs.tar.gz
           - OpenWrt-23.05.5-InsomWRT-armsr-armv8-generic-rootfs.tar.gz
+          - openwrt-24.10.3/targets/armsr/armv8/openwrt-imagebuilder-24.10.3-armsr-armv8.Linux-x86_64.tar.zst
           - custom
 
       custom_rootfs_url:
